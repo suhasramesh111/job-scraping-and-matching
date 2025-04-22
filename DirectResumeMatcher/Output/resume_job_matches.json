@@ -1,0 +1,542 @@
+[
+  {
+    "resume": "Data Engineering Resume Suhas Ramesh.pdf",
+    "matches": [
+      {
+        "job_title": "(USA) Director, Data Analytics",
+        "requisition_id": "R-2140275",
+        "department": "DATA ANALYTICS AND BUSINESS INTELLIGENCE",
+        "location": "BENTONVILLE, AR",
+        "similarity_score": 0.7794996500015259
+      },
+      {
+        "job_title": "Data Scientist III",
+        "requisition_id": "R-2149267",
+        "department": "DATA ANALYTICS AND BUSINESS INTELLIGENCE",
+        "location": "BENTONVILLE, AR",
+        "similarity_score": 0.7675862312316895
+      },
+      {
+        "job_title": "Staff Data Analyst",
+        "requisition_id": "R-2147731",
+        "department": "DATA ANALYTICS AND BUSINESS INTELLIGENCE",
+        "location": "BENTONVILLE, AR",
+        "similarity_score": 0.7646785974502563
+      },
+      {
+        "job_title": "(USA) Manager, Advanced Analytics",
+        "requisition_id": "R-2155352",
+        "department": "DATA ANALYTICS AND BUSINESS INTELLIGENCE",
+        "location": "BENTONVILLE, AR",
+        "similarity_score": 0.7635631561279297
+      },
+      {
+        "job_title": "Senior Manager, Data Analytics",
+        "requisition_id": "R-2114848",
+        "department": "DATA ANALYTICS AND BUSINESS INTELLIGENCE",
+        "location": "BENTONVILLE, AR",
+        "similarity_score": 0.7632205486297607
+      },
+      {
+        "job_title": "(USA) Manager, Data Analytics",
+        "requisition_id": "R-2155309",
+        "department": "DATA ANALYTICS AND BUSINESS INTELLIGENCE",
+        "location": "BENTONVILLE, AR",
+        "similarity_score": 0.7532728910446167
+      },
+      {
+        "job_title": "Data Scientist III",
+        "requisition_id": "R-2149258",
+        "department": "DATA ANALYTICS AND BUSINESS INTELLIGENCE",
+        "location": "BENTONVILLE, AR",
+        "similarity_score": 0.7524499893188477
+      },
+      {
+        "job_title": "(USA) Senior Manager, Advanced Analytics",
+        "requisition_id": "R-2155332",
+        "department": "DATA ANALYTICS AND BUSINESS INTELLIGENCE",
+        "location": "BENTONVILLE, AR",
+        "similarity_score": 0.7422664165496826
+      },
+      {
+        "job_title": "Senior Data Scientist, Member Engagement",
+        "requisition_id": "R-2148780",
+        "department": "DATA ANALYTICS AND BUSINESS INTELLIGENCE",
+        "location": "BENTONVILLE, AR",
+        "similarity_score": 0.7379979491233826
+      },
+      {
+        "job_title": "(USA) Senior Manager, Data Analytics",
+        "requisition_id": "R-2154982",
+        "department": "DATA ANALYTICS AND BUSINESS INTELLIGENCE",
+        "location": "BENTONVILLE, AR",
+        "similarity_score": 0.717538058757782
+      },
+      {
+        "job_title": "Senior Data Scientist",
+        "requisition_id": "R-2148518",
+        "department": "DATA ANALYTICS AND BUSINESS INTELLIGENCE",
+        "location": "BENTONVILLE, AR",
+        "similarity_score": 0.7014039754867554
+      },
+      {
+        "job_title": "Senior Director, Data Science \u2013 Walmart Connect \u2013 Head of Pricing & Yield Analytics",
+        "requisition_id": "R-2126555",
+        "department": "DATA ANALYTICS AND BUSINESS INTELLIGENCE",
+        "location": "HOBOKEN, NJ",
+        "similarity_score": 0.6975144147872925
+      },
+      {
+        "job_title": "(USA) Senior Manager, Data Analytics",
+        "requisition_id": "R-2124281",
+        "department": "DATA ANALYTICS AND BUSINESS INTELLIGENCE",
+        "location": "BENTONVILLE, AR",
+        "similarity_score": 0.6953163146972656
+      },
+      {
+        "job_title": "Data Scientist, Sam\u2019s Member Engagement",
+        "requisition_id": "R-2148534",
+        "department": "DATA ANALYTICS AND BUSINESS INTELLIGENCE",
+        "location": "BENTONVILLE, AR",
+        "similarity_score": 0.6884766817092896
+      },
+      {
+        "job_title": "Senior Data Scientist",
+        "requisition_id": "R-2148535",
+        "department": "DATA ANALYTICS AND BUSINESS INTELLIGENCE",
+        "location": "BENTONVILLE, AR",
+        "similarity_score": 0.6872962117195129
+      },
+      {
+        "job_title": "Senior Data Scientist",
+        "requisition_id": "R-2148523",
+        "department": "DATA ANALYTICS AND BUSINESS INTELLIGENCE",
+        "location": "BENTONVILLE, AR",
+        "similarity_score": 0.6867024898529053
+      },
+      {
+        "job_title": "Senior Data Scientist",
+        "requisition_id": "R-2148506",
+        "department": "DATA ANALYTICS AND BUSINESS INTELLIGENCE",
+        "location": "BENTONVILLE, AR",
+        "similarity_score": 0.6788360476493835
+      },
+      {
+        "job_title": "Director, Data Analytics \u2013 Contribution Profit Intelligence",
+        "requisition_id": "R-2114193",
+        "department": "DATA ANALYTICS AND BUSINESS INTELLIGENCE",
+        "location": "BENTONVILLE, AR",
+        "similarity_score": 0.6699197292327881
+      },
+      {
+        "job_title": "Senior Data Scientist",
+        "requisition_id": "R-2148517",
+        "department": "DATA ANALYTICS AND BUSINESS INTELLIGENCE",
+        "location": "BENTONVILLE, AR",
+        "similarity_score": 0.6662998199462891
+      },
+      {
+        "job_title": "Data Scientist",
+        "requisition_id": "R-2148513",
+        "department": "DATA ANALYTICS AND BUSINESS INTELLIGENCE",
+        "location": "BENTONVILLE, AR",
+        "similarity_score": 0.6464502811431885
+      },
+      {
+        "job_title": "Senior Data Scientist",
+        "requisition_id": "R-2148524",
+        "department": "DATA ANALYTICS AND BUSINESS INTELLIGENCE",
+        "location": "BENTONVILLE, AR",
+        "similarity_score": 0.6267920732498169
+      },
+      {
+        "job_title": "Senior Manager, Advanced Analytics",
+        "requisition_id": "R-2148532",
+        "department": "DATA ANALYTICS AND BUSINESS INTELLIGENCE",
+        "location": "BENTONVILLE, AR",
+        "similarity_score": 0.6229032278060913
+      },
+      {
+        "job_title": "Senior Manager, Data Analytics - Product and Marketing Analytics",
+        "requisition_id": "R-2091244",
+        "department": "DATA ANALYTICS AND BUSINESS INTELLIGENCE",
+        "location": "BENTONVILLE, AR",
+        "similarity_score": 0.6211507320404053
+      },
+      {
+        "job_title": "Senior Manager, Data Science",
+        "requisition_id": "R-2147750",
+        "department": "DATA ANALYTICS AND BUSINESS INTELLIGENCE",
+        "location": "BENTONVILLE, AR",
+        "similarity_score": 0.594756007194519
+      },
+      {
+        "job_title": "Data Scientist III",
+        "requisition_id": "R-2149273",
+        "department": "DATA ANALYTICS AND BUSINESS INTELLIGENCE",
+        "location": "BENTONVILLE, AR",
+        "similarity_score": 0.5600374937057495
+      }
+    ]
+  },
+  {
+    "resume": "ML Resume Suhas Ramesh.pdf",
+    "matches": [
+      {
+        "job_title": "Senior Manager, Data Analytics",
+        "requisition_id": "R-2114848",
+        "department": "DATA ANALYTICS AND BUSINESS INTELLIGENCE",
+        "location": "BENTONVILLE, AR",
+        "similarity_score": 0.781086266040802
+      },
+      {
+        "job_title": "(USA) Director, Data Analytics",
+        "requisition_id": "R-2140275",
+        "department": "DATA ANALYTICS AND BUSINESS INTELLIGENCE",
+        "location": "BENTONVILLE, AR",
+        "similarity_score": 0.7808861136436462
+      },
+      {
+        "job_title": "(USA) Manager, Advanced Analytics",
+        "requisition_id": "R-2155352",
+        "department": "DATA ANALYTICS AND BUSINESS INTELLIGENCE",
+        "location": "BENTONVILLE, AR",
+        "similarity_score": 0.7743939161300659
+      },
+      {
+        "job_title": "Data Scientist III",
+        "requisition_id": "R-2149267",
+        "department": "DATA ANALYTICS AND BUSINESS INTELLIGENCE",
+        "location": "BENTONVILLE, AR",
+        "similarity_score": 0.767693042755127
+      },
+      {
+        "job_title": "Staff Data Analyst",
+        "requisition_id": "R-2147731",
+        "department": "DATA ANALYTICS AND BUSINESS INTELLIGENCE",
+        "location": "BENTONVILLE, AR",
+        "similarity_score": 0.766329288482666
+      },
+      {
+        "job_title": "Data Scientist III",
+        "requisition_id": "R-2149258",
+        "department": "DATA ANALYTICS AND BUSINESS INTELLIGENCE",
+        "location": "BENTONVILLE, AR",
+        "similarity_score": 0.7557623982429504
+      },
+      {
+        "job_title": "(USA) Manager, Data Analytics",
+        "requisition_id": "R-2155309",
+        "department": "DATA ANALYTICS AND BUSINESS INTELLIGENCE",
+        "location": "BENTONVILLE, AR",
+        "similarity_score": 0.7556558847427368
+      },
+      {
+        "job_title": "(USA) Senior Manager, Advanced Analytics",
+        "requisition_id": "R-2155332",
+        "department": "DATA ANALYTICS AND BUSINESS INTELLIGENCE",
+        "location": "BENTONVILLE, AR",
+        "similarity_score": 0.7446112036705017
+      },
+      {
+        "job_title": "Senior Data Scientist, Member Engagement",
+        "requisition_id": "R-2148780",
+        "department": "DATA ANALYTICS AND BUSINESS INTELLIGENCE",
+        "location": "BENTONVILLE, AR",
+        "similarity_score": 0.7313665151596069
+      },
+      {
+        "job_title": "Senior Data Scientist",
+        "requisition_id": "R-2148518",
+        "department": "DATA ANALYTICS AND BUSINESS INTELLIGENCE",
+        "location": "BENTONVILLE, AR",
+        "similarity_score": 0.7155122756958008
+      },
+      {
+        "job_title": "(USA) Senior Manager, Data Analytics",
+        "requisition_id": "R-2154982",
+        "department": "DATA ANALYTICS AND BUSINESS INTELLIGENCE",
+        "location": "BENTONVILLE, AR",
+        "similarity_score": 0.71422278881073
+      },
+      {
+        "job_title": "(USA) Senior Manager, Data Analytics",
+        "requisition_id": "R-2124281",
+        "department": "DATA ANALYTICS AND BUSINESS INTELLIGENCE",
+        "location": "BENTONVILLE, AR",
+        "similarity_score": 0.7125105857849121
+      },
+      {
+        "job_title": "Senior Director, Data Science \u2013 Walmart Connect \u2013 Head of Pricing & Yield Analytics",
+        "requisition_id": "R-2126555",
+        "department": "DATA ANALYTICS AND BUSINESS INTELLIGENCE",
+        "location": "HOBOKEN, NJ",
+        "similarity_score": 0.7111382484436035
+      },
+      {
+        "job_title": "Data Scientist, Sam\u2019s Member Engagement",
+        "requisition_id": "R-2148534",
+        "department": "DATA ANALYTICS AND BUSINESS INTELLIGENCE",
+        "location": "BENTONVILLE, AR",
+        "similarity_score": 0.70149165391922
+      },
+      {
+        "job_title": "Senior Data Scientist",
+        "requisition_id": "R-2148535",
+        "department": "DATA ANALYTICS AND BUSINESS INTELLIGENCE",
+        "location": "BENTONVILLE, AR",
+        "similarity_score": 0.6975196599960327
+      },
+      {
+        "job_title": "Senior Data Scientist",
+        "requisition_id": "R-2148523",
+        "department": "DATA ANALYTICS AND BUSINESS INTELLIGENCE",
+        "location": "BENTONVILLE, AR",
+        "similarity_score": 0.6965136528015137
+      },
+      {
+        "job_title": "Senior Data Scientist",
+        "requisition_id": "R-2148506",
+        "department": "DATA ANALYTICS AND BUSINESS INTELLIGENCE",
+        "location": "BENTONVILLE, AR",
+        "similarity_score": 0.6948736906051636
+      },
+      {
+        "job_title": "Senior Data Scientist",
+        "requisition_id": "R-2148517",
+        "department": "DATA ANALYTICS AND BUSINESS INTELLIGENCE",
+        "location": "BENTONVILLE, AR",
+        "similarity_score": 0.6815348267555237
+      },
+      {
+        "job_title": "Director, Data Analytics \u2013 Contribution Profit Intelligence",
+        "requisition_id": "R-2114193",
+        "department": "DATA ANALYTICS AND BUSINESS INTELLIGENCE",
+        "location": "BENTONVILLE, AR",
+        "similarity_score": 0.6752163171768188
+      },
+      {
+        "job_title": "Data Scientist",
+        "requisition_id": "R-2148513",
+        "department": "DATA ANALYTICS AND BUSINESS INTELLIGENCE",
+        "location": "BENTONVILLE, AR",
+        "similarity_score": 0.6510200500488281
+      },
+      {
+        "job_title": "Senior Data Scientist",
+        "requisition_id": "R-2148524",
+        "department": "DATA ANALYTICS AND BUSINESS INTELLIGENCE",
+        "location": "BENTONVILLE, AR",
+        "similarity_score": 0.6427938342094421
+      },
+      {
+        "job_title": "Senior Manager, Data Analytics - Product and Marketing Analytics",
+        "requisition_id": "R-2091244",
+        "department": "DATA ANALYTICS AND BUSINESS INTELLIGENCE",
+        "location": "BENTONVILLE, AR",
+        "similarity_score": 0.628936767578125
+      },
+      {
+        "job_title": "Senior Manager, Advanced Analytics",
+        "requisition_id": "R-2148532",
+        "department": "DATA ANALYTICS AND BUSINESS INTELLIGENCE",
+        "location": "BENTONVILLE, AR",
+        "similarity_score": 0.6167334318161011
+      },
+      {
+        "job_title": "Senior Manager, Data Science",
+        "requisition_id": "R-2147750",
+        "department": "DATA ANALYTICS AND BUSINESS INTELLIGENCE",
+        "location": "BENTONVILLE, AR",
+        "similarity_score": 0.6153770685195923
+      },
+      {
+        "job_title": "Data Scientist III",
+        "requisition_id": "R-2149273",
+        "department": "DATA ANALYTICS AND BUSINESS INTELLIGENCE",
+        "location": "BENTONVILLE, AR",
+        "similarity_score": 0.5756487846374512
+      }
+    ]
+  },
+  {
+    "resume": "SE Resume Suhas Ramesh.pdf",
+    "matches": [
+      {
+        "job_title": "(USA) Director, Data Analytics",
+        "requisition_id": "R-2140275",
+        "department": "DATA ANALYTICS AND BUSINESS INTELLIGENCE",
+        "location": "BENTONVILLE, AR",
+        "similarity_score": 0.7599897384643555
+      },
+      {
+        "job_title": "(USA) Manager, Advanced Analytics",
+        "requisition_id": "R-2155352",
+        "department": "DATA ANALYTICS AND BUSINESS INTELLIGENCE",
+        "location": "BENTONVILLE, AR",
+        "similarity_score": 0.7594711780548096
+      },
+      {
+        "job_title": "Senior Manager, Data Analytics",
+        "requisition_id": "R-2114848",
+        "department": "DATA ANALYTICS AND BUSINESS INTELLIGENCE",
+        "location": "BENTONVILLE, AR",
+        "similarity_score": 0.7588933706283569
+      },
+      {
+        "job_title": "Staff Data Analyst",
+        "requisition_id": "R-2147731",
+        "department": "DATA ANALYTICS AND BUSINESS INTELLIGENCE",
+        "location": "BENTONVILLE, AR",
+        "similarity_score": 0.7401490211486816
+      },
+      {
+        "job_title": "Data Scientist III",
+        "requisition_id": "R-2149267",
+        "department": "DATA ANALYTICS AND BUSINESS INTELLIGENCE",
+        "location": "BENTONVILLE, AR",
+        "similarity_score": 0.7396740913391113
+      },
+      {
+        "job_title": "(USA) Manager, Data Analytics",
+        "requisition_id": "R-2155309",
+        "department": "DATA ANALYTICS AND BUSINESS INTELLIGENCE",
+        "location": "BENTONVILLE, AR",
+        "similarity_score": 0.7365436553955078
+      },
+      {
+        "job_title": "Data Scientist III",
+        "requisition_id": "R-2149258",
+        "department": "DATA ANALYTICS AND BUSINESS INTELLIGENCE",
+        "location": "BENTONVILLE, AR",
+        "similarity_score": 0.7295068502426147
+      },
+      {
+        "job_title": "Senior Data Scientist, Member Engagement",
+        "requisition_id": "R-2148780",
+        "department": "DATA ANALYTICS AND BUSINESS INTELLIGENCE",
+        "location": "BENTONVILLE, AR",
+        "similarity_score": 0.7254390716552734
+      },
+      {
+        "job_title": "(USA) Senior Manager, Advanced Analytics",
+        "requisition_id": "R-2155332",
+        "department": "DATA ANALYTICS AND BUSINESS INTELLIGENCE",
+        "location": "BENTONVILLE, AR",
+        "similarity_score": 0.7249854207038879
+      },
+      {
+        "job_title": "(USA) Senior Manager, Data Analytics",
+        "requisition_id": "R-2154982",
+        "department": "DATA ANALYTICS AND BUSINESS INTELLIGENCE",
+        "location": "BENTONVILLE, AR",
+        "similarity_score": 0.6923167705535889
+      },
+      {
+        "job_title": "Senior Director, Data Science \u2013 Walmart Connect \u2013 Head of Pricing & Yield Analytics",
+        "requisition_id": "R-2126555",
+        "department": "DATA ANALYTICS AND BUSINESS INTELLIGENCE",
+        "location": "HOBOKEN, NJ",
+        "similarity_score": 0.6838515996932983
+      },
+      {
+        "job_title": "Senior Data Scientist",
+        "requisition_id": "R-2148518",
+        "department": "DATA ANALYTICS AND BUSINESS INTELLIGENCE",
+        "location": "BENTONVILLE, AR",
+        "similarity_score": 0.6759509444236755
+      },
+      {
+        "job_title": "(USA) Senior Manager, Data Analytics",
+        "requisition_id": "R-2124281",
+        "department": "DATA ANALYTICS AND BUSINESS INTELLIGENCE",
+        "location": "BENTONVILLE, AR",
+        "similarity_score": 0.6713883876800537
+      },
+      {
+        "job_title": "Director, Data Analytics \u2013 Contribution Profit Intelligence",
+        "requisition_id": "R-2114193",
+        "department": "DATA ANALYTICS AND BUSINESS INTELLIGENCE",
+        "location": "BENTONVILLE, AR",
+        "similarity_score": 0.6672265529632568
+      },
+      {
+        "job_title": "Data Scientist, Sam\u2019s Member Engagement",
+        "requisition_id": "R-2148534",
+        "department": "DATA ANALYTICS AND BUSINESS INTELLIGENCE",
+        "location": "BENTONVILLE, AR",
+        "similarity_score": 0.6585920453071594
+      },
+      {
+        "job_title": "Senior Data Scientist",
+        "requisition_id": "R-2148535",
+        "department": "DATA ANALYTICS AND BUSINESS INTELLIGENCE",
+        "location": "BENTONVILLE, AR",
+        "similarity_score": 0.657950222492218
+      },
+      {
+        "job_title": "Senior Data Scientist",
+        "requisition_id": "R-2148506",
+        "department": "DATA ANALYTICS AND BUSINESS INTELLIGENCE",
+        "location": "BENTONVILLE, AR",
+        "similarity_score": 0.6497232913970947
+      },
+      {
+        "job_title": "Senior Data Scientist",
+        "requisition_id": "R-2148523",
+        "department": "DATA ANALYTICS AND BUSINESS INTELLIGENCE",
+        "location": "BENTONVILLE, AR",
+        "similarity_score": 0.6487164497375488
+      },
+      {
+        "job_title": "Senior Data Scientist",
+        "requisition_id": "R-2148517",
+        "department": "DATA ANALYTICS AND BUSINESS INTELLIGENCE",
+        "location": "BENTONVILLE, AR",
+        "similarity_score": 0.6353219151496887
+      },
+      {
+        "job_title": "Data Scientist",
+        "requisition_id": "R-2148513",
+        "department": "DATA ANALYTICS AND BUSINESS INTELLIGENCE",
+        "location": "BENTONVILLE, AR",
+        "similarity_score": 0.6138933897018433
+      },
+      {
+        "job_title": "Senior Manager, Advanced Analytics",
+        "requisition_id": "R-2148532",
+        "department": "DATA ANALYTICS AND BUSINESS INTELLIGENCE",
+        "location": "BENTONVILLE, AR",
+        "similarity_score": 0.5934712290763855
+      },
+      {
+        "job_title": "Senior Manager, Data Analytics - Product and Marketing Analytics",
+        "requisition_id": "R-2091244",
+        "department": "DATA ANALYTICS AND BUSINESS INTELLIGENCE",
+        "location": "BENTONVILLE, AR",
+        "similarity_score": 0.592095673084259
+      },
+      {
+        "job_title": "Senior Data Scientist",
+        "requisition_id": "R-2148524",
+        "department": "DATA ANALYTICS AND BUSINESS INTELLIGENCE",
+        "location": "BENTONVILLE, AR",
+        "similarity_score": 0.5891894698143005
+      },
+      {
+        "job_title": "Senior Manager, Data Science",
+        "requisition_id": "R-2147750",
+        "department": "DATA ANALYTICS AND BUSINESS INTELLIGENCE",
+        "location": "BENTONVILLE, AR",
+        "similarity_score": 0.5526304244995117
+      },
+      {
+        "job_title": "Data Scientist III",
+        "requisition_id": "R-2149273",
+        "department": "DATA ANALYTICS AND BUSINESS INTELLIGENCE",
+        "location": "BENTONVILLE, AR",
+        "similarity_score": 0.5322232842445374
+      }
+    ]
+  }
+]
